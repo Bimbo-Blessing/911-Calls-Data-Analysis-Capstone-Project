@@ -36,30 +36,42 @@ The dataset contains records of 911 emergency calls, including information about
 | e | Dummy variable (always equal to 1) |
 
 ## Tools Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+- Python
+
+- Pandas
+
+- NumPy
+  
+- Matplotlib
+  
+- Seaborn
+
+- Jupyter Notebook
 
 ## Skills Demonstrated
 Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Feature Engineering, and Insight Generation using Python
 
 ## Data Cleaning
 
-Checked for missing values.
-Converted timestamp data to datetime format.
-Extracted month, day, and hour from the timestamp column.
-Created new features for time-based analysis.
+- Checked for missing values.
+
+- Converted timestamp data to datetime format.
+
+- Extracted month, day, and hour from the timestamp column.
+
+- Created new features for time-based analysis.
 
 ## Analysis Performed
 
-Identified the most common emergency call categories.
-Analyzed call volume by month.
-Examined call distribution by day of the week.
-Investigated peak hours for emergency calls.
-Created visualizations to highlight trends and patterns.
+- Identified the most common emergency call categories.
+
+- Analyzed call volume by month.
+
+- Examined call distribution by day of the week.
+
+- Investigated peak hours for emergency calls.
+
+- Created visualizations to highlight trends and patterns.
 
 ## Key Insights
 EMS (Emergency Medical Services) recorded the highest number of 911 emergency calls, making it the most common reason for emergency requests.
